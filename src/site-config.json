@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "EZ Landscaping LLC",
+    "phone": "+12082842154",
+    "category": "landscaping company",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Boise's Landscape Authority",
+      "heroSubline": "Transforming outdoor spaces with expertise and dedication. Trusted landscaping services for Boise and beyond.",
+      "aboutTitle": "Crafting Boise's Landscapes for Over a Decade",
+      "aboutText": [
+        "EZ Landscaping LLC started with a simple goal: to bring exceptional landscaping services to Boise homes. What began as a small team with big dreams has grown into a trusted name in the community, known for our commitment to quality and customer satisfaction.",
+        "We believe in a hands-on approach, working closely with our clients to understand their vision and bring it to life. From initial design to final installation, we're dedicated to exceeding expectations and creating outdoor spaces that enhance the beauty and value of your property.",
+        "As a local Boise company, we're deeply invested in the community. We source materials locally whenever possible, support local businesses, and strive to create sustainable landscapes that benefit our environment. We believe in giving back and contributing to the vibrant spirit of Boise."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Boise's climate, soil, and plant life."
+        },
+        {
+          "title": "Custom Design",
+          "description": "Tailored landscaping solutions to fit your unique style and needs."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals delivering exceptional results, every time."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and responsive communication."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Landscape?",
+      "ctaSubline": "Contact us today for a free consultation and let's bring your outdoor vision to life."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design & Planning",
+        "shortDescription": "Custom landscape designs that reflect your vision and enhance your property.",
+        "description": "Our landscape design and planning service is the foundation of a stunning outdoor space. We start by understanding your lifestyle, preferences, and budget. We then conduct a thorough site analysis, considering factors such as soil type, sun exposure, and existing vegetation. Our expert designers create detailed plans that incorporate your ideas with our horticultural knowledge and design principles, ensuring a cohesive and functional landscape. \n\nWe work closely with you throughout the design process, providing revisions and adjustments until you are completely satisfied. Whether it's a complete yard makeover or a small garden renovation, our landscape design service provides a roadmap for creating the outdoor space of your dreams. We handle everything including plant selection, hardscape features, irrigation planning, and lighting design. \n\nWe'll help you get the necessary permits, if needed, and manage all aspects of the installation. Our designs consider Boise's unique climate, including hot summers and snowy winters, ensuring that your landscape thrives year-round. We focus on water-wise landscaping techniques to conserve water and create sustainable outdoor spaces that are both beautiful and environmentally friendly.",
+        "process": [
+          "Step 1: Initial Consultation - Discuss your vision, budget, and site conditions.",
+          "Step 2: Site Analysis - Assess soil, sun exposure, and existing landscape features.",
+          "Step 3: Design Development - Create detailed landscape plans with revisions.",
+          "Step 4: Final Approval & Planning - Finalize the design and prepare for installation."
+        ],
+        "benefits": [
+          "Customized landscape plan",
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Sustainable and water-wise design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the scope of the project. We offer free consultations to provide an accurate estimate."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 2-4 weeks, depending on the complexity of the project. We prioritize clear communication and timely revisions."
+          },
+          {
+            "question": "Do you handle the installation as well?",
+            "answer": "Yes, we offer complete landscape installation services, ensuring that your design is brought to life with precision and care."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care & Maintenance",
+        "shortDescription": "Keep your lawn healthy and vibrant with our comprehensive lawn care programs.",
+        "description": "Our lawn care and maintenance service provides everything you need to keep your Boise lawn looking its best. We offer a range of services, including mowing, edging, fertilization, weed control, aeration, and overseeding. Our experienced technicians understand the specific needs of Boise lawns, taking into account factors such as soil type, grass variety, and local climate conditions. \n\nWe use high-quality products and equipment to ensure optimal results, and we tailor our services to meet your individual needs and budget. Whether you need a one-time lawn mowing or a comprehensive year-round maintenance program, we've got you covered. We also offer specialized services such as lawn disease treatment, pest control, and irrigation system maintenance. \n\nWe are committed to providing reliable and professional service. We strive to exceed your expectations and leave your lawn looking healthy, green, and well-manicured. With EZ Landscaping, you can spend less time working on your lawn and more time enjoying it.",
+        "process": [
+          "Step 1: Lawn Assessment - Evaluate grass type, soil condition, and potential problem areas.",
+          "Step 2: Customized Treatment Plan - Develop a tailored lawn care program.",
+          "Step 3: Regular Maintenance - Mowing, edging, fertilization, and weed control.",
+          "Step 4: Ongoing Monitoring - Track progress and adjust treatment as needed."
+        ],
+        "benefits": [
+          "Healthy and vibrant lawn",
+          "Weed-free and pest-free",
+          "Increased curb appeal",
+          "Reduced maintenance effort"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn?",
+            "answer": "We recommend fertilizing your lawn 2-4 times per year, depending on the grass type and soil conditions. We can develop a customized fertilization schedule for your lawn."
+          },
+          {
+            "question": "What is aeration and why is it important?",
+            "answer": "Aeration is the process of creating small holes in the soil to improve air circulation, water infiltration, and nutrient absorption. It helps to reduce soil compaction and promote healthy root growth."
+          },
+          {
+            "question": "Do you offer organic lawn care options?",
+            "answer": "Yes, we offer organic lawn care options for clients who prefer natural and environmentally friendly solutions. Contact us to learn more about our organic lawn care services."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping & Construction",
+        "shortDescription": "Enhance your outdoor living space with custom patios, walkways, and retaining walls.",
+        "description": "Our hardscaping and construction service transforms your outdoor space into a functional and beautiful extension of your home. We specialize in creating custom patios, walkways, retaining walls, and outdoor kitchens using a variety of materials such as pavers, natural stone, concrete, and wood. Our experienced craftsmen work closely with you to design and build hardscape features that complement your home's architecture and landscape. \n\nWe handle all aspects of the construction process, from site preparation to final finishing. We use high-quality materials and construction techniques to ensure that your hardscape features are durable, long-lasting, and visually appealing. Whether you're looking to create a cozy outdoor seating area or a functional outdoor kitchen, we can bring your vision to life. \n\nWe also offer retaining wall construction to address erosion issues or create level areas in your yard. We can build retaining walls using a variety of materials, including concrete blocks, natural stone, and timber. We ensure that all our hardscaping projects are built to code and meet the highest standards of quality and safety.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your hardscaping needs and preferences.",
+          "Step 2: Site Preparation - Clear and level the area for construction.",
+          "Step 3: Construction & Installation - Build patios, walkways, retaining walls, and other features.",
+          "Step 4: Final Finishing - Add finishing touches and ensure quality craftsmanship."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved functionality",
+          "Durable and long-lasting features"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for patios?",
+            "answer": "We use a variety of materials for patios, including pavers, natural stone, concrete, and wood. We can help you choose the best material for your style, budget, and site conditions."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "In many cases, a permit is required for retaining walls, depending on the height and location. We can help you obtain the necessary permits for your project."
+          },
+          {
+            "question": "How long does it take to build a patio?",
+            "answer": "The time it takes to build a patio depends on the size, complexity, and materials used. We can provide you with an estimated timeline during the design consultation."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems & Sprinklers",
+        "shortDescription": "Efficient irrigation solutions to keep your landscape hydrated and healthy.",
+        "description": "Our irrigation systems and sprinkler service provides efficient and reliable watering solutions for your landscape. We specialize in designing, installing, and maintaining irrigation systems that are tailored to your specific needs and budget. Our experienced technicians understand the unique watering requirements of Boise landscapes, taking into account factors such as plant types, soil conditions, and weather patterns. \n\nWe use high-quality components and the latest technology to ensure that your irrigation system delivers the right amount of water to the right places, at the right time. We offer a range of irrigation solutions, including drip irrigation, sprinkler systems, and smart controllers. Our smart controllers use weather data and soil moisture sensors to automatically adjust watering schedules, saving you water and money. \n\nWe also offer irrigation system maintenance and repair services, including sprinkler head replacement, leak detection, and winterization. With EZ Landscaping, you can rest assured that your landscape is getting the water it needs to thrive, without wasting water or overwatering.",
+        "process": [
+          "Step 1: Site Assessment - Evaluate watering needs and existing irrigation systems.",
+          "Step 2: System Design - Create a customized irrigation plan.",
+          "Step 3: Installation & Setup - Install sprinkler heads, pipes, and controllers.",
+          "Step 4: Testing & Calibration - Ensure proper water coverage and efficiency."
+        ],
+        "benefits": [
+          "Efficient water usage",
+          "Healthy and thriving landscape",
+          "Reduced water bills",
+          "Automated watering schedules"
+        ],
+        "faq": [
+          {
+            "question": "How can I save water with my irrigation system?",
+            "answer": "You can save water by using smart controllers, drip irrigation, and adjusting watering schedules based on weather conditions. We can help you implement these strategies."
+          },
+          {
+            "question": "How often should I water my lawn?",
+            "answer": "The frequency of watering depends on the grass type, soil conditions, and weather patterns. We can help you determine the optimal watering schedule for your lawn."
+          },
+          {
+            "question": "What is drip irrigation and how does it work?",
+            "answer": "Drip irrigation is a method of delivering water directly to the plant roots, minimizing water loss through evaporation. It is ideal for gardens, flower beds, and shrubs."
+          }
+        ]
+      },
+      {
+        "slug": "spring-fall-cleanup",
+        "name": "Spring & Fall Clean-Up",
+        "shortDescription": "Prepare your landscape for the changing seasons with our thorough clean-up services.",
+        "description": "Our spring and fall clean-up service is designed to prepare your landscape for the changing seasons. We remove leaves, branches, and other debris from your yard, ensuring that your landscape is healthy and visually appealing. In the spring, we remove winter debris, prune shrubs and trees, and prepare your garden beds for planting. In the fall, we remove fallen leaves, protect plants from frost, and prepare your irrigation system for winter. \n\nOur experienced technicians use specialized equipment to efficiently and effectively clean up your landscape. We also offer additional services such as lawn aeration, fertilization, and weed control to ensure that your landscape is healthy and thriving. We understand the specific needs of Boise landscapes and tailor our services to meet your individual needs and budget. \n\nWith EZ Landscaping, you can spend less time cleaning up your yard and more time enjoying the beauty of the seasons.",
+        "process": [
+          "Step 1: Debris Removal - Clear leaves, branches, and other debris from your yard.",
+          "Step 2: Pruning & Trimming - Prune shrubs and trees to promote healthy growth.",
+          "Step 3: Garden Bed Preparation - Prepare garden beds for planting or winter protection.",
+          "Step 4: Final Cleanup - Remove all debris and leave your landscape looking pristine."
+        ],
+        "benefits": [
+          "Healthy and well-maintained landscape",
+          "Reduced risk of pests and diseases",
+          "Improved curb appeal",
+          "Preparation for the changing seasons"
+        ],
+        "faq": [
+          {
+            "question": "When should I schedule my spring clean-up?",
+            "answer": "We recommend scheduling your spring clean-up in March or April, after the snow has melted and the weather has warmed up."
+          },
+          {
+            "question": "When should I schedule my fall clean-up?",
+            "answer": "We recommend scheduling your fall clean-up in October or November, after the leaves have fallen and before the first frost."
+          },
+          {
+            "question": "Do you offer leaf removal services?",
+            "answer": "Yes, we offer leaf removal services as part of our fall clean-up package. We can remove leaves from your lawn, garden beds, and hard surfaces."
+          }
+        ]
+      },
+      {
+        "slug": "snow-ice-removal",
+        "name": "Snow & Ice Removal",
+        "shortDescription": "Reliable snow and ice removal services to keep your property safe during winter.",
+        "description": "Our snow and ice removal service provides reliable and efficient snow removal services to keep your property safe during the winter months. We offer snow plowing, snow shoveling, and ice removal services for residential and commercial properties. Our experienced team uses specialized equipment to quickly and effectively remove snow and ice from driveways, sidewalks, parking lots, and other areas. \n\nWe monitor weather conditions closely and provide timely service to prevent accidents and ensure that your property is accessible. We also offer ice melt application to prevent ice from forming on walkways and driveways. Our services are available 24/7 during snow events, so you can rest assured that we'll be there when you need us. \n\nWith EZ Landscaping, you can avoid the hassle and danger of shoveling snow and ice yourself. We'll keep your property safe and accessible all winter long.",
+        "process": [
+          "Step 1: Weather Monitoring - Track weather conditions and prepare for snow events.",
+          "Step 2: Snow Plowing & Shoveling - Remove snow from driveways, sidewalks, and parking lots.",
+          "Step 3: Ice Removal - Apply ice melt to prevent ice from forming.",
+          "Step 4: 24/7 Availability - Provide timely service during snow events."
+        ],
+        "benefits": [
+          "Safe and accessible property",
+          "Reduced risk of accidents",
+          "Hassle-free snow removal",
+          "24/7 availability"
+        ],
+        "faq": [
+          {
+            "question": "How quickly do you respond to snow events?",
+            "answer": "We monitor weather conditions closely and provide timely service during snow events. We prioritize our clients based on their needs and location."
+          },
+          {
+            "question": "Do you offer salting services?",
+            "answer": "Yes, we offer ice melt application to prevent ice from forming on walkways and driveways."
+          },
+          {
+            "question": "What areas do you serve?",
+            "answer": "We provide snow and ice removal services throughout the Boise metropolitan area."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC is proud to offer comprehensive landscaping services to the residents and businesses of Boise, Idaho. From lush lawn installations to intricate hardscaping designs, our team brings expertise and dedication to every project. We understand the unique climate and soil conditions of the Treasure Valley, allowing us to create landscapes that thrive in our environment.\n\nWhether you're looking to enhance your curb appeal, create an outdoor oasis, or maintain a healthy and vibrant yard, EZ Landscaping LLC is your trusted partner in Boise. We offer a wide range of services, including lawn care, tree and shrub trimming, irrigation system installation and repair, and seasonal clean-up. Contact us today for a free consultation and let us bring your landscaping vision to life.\n\nWe're committed to providing top-notch service and exceptional results to our Boise customers.",
+        "localContext": "Boise, the capital of Idaho, features a mix of urban development and natural beauty, with the Boise River Greenbelt offering a popular recreational amenity. The city's diverse neighborhoods and growing community make it a vibrant place to live and work.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Nampa"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC extends its commitment to quality landscaping services to the growing community of Meridian, Idaho. We understand the importance of a well-maintained landscape in enhancing the beauty and value of your property. Our team is equipped to handle all your landscaping needs, from routine lawn care to complete landscape renovations.\n\nIn Meridian, we tailor our services to meet the specific needs of our clients, taking into account the local climate and soil conditions. Whether you need help with lawn mowing, fertilization, weed control, or landscape design, EZ Landscaping LLC is here to help. We're dedicated to providing exceptional service and creating landscapes that you can enjoy for years to come.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction in Meridian.",
+        "localContext": "Meridian is one of the fastest-growing cities in Idaho, known for its family-friendly atmosphere and thriving business community. Its location in the Treasure Valley provides access to both urban amenities and outdoor recreation.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC is pleased to offer its professional landscaping services to the residents and businesses of Nampa, Idaho. We understand the unique challenges and opportunities presented by the Nampa climate and are dedicated to creating landscapes that thrive in our environment. From basic lawn maintenance to complex landscape installations, we have the expertise to handle any project.\n\nOur services in Nampa include lawn care, landscape design, irrigation system installation and repair, and seasonal clean-up. We work closely with our clients to understand their needs and create customized solutions that meet their specific goals. Whether you're looking to improve your curb appeal, create an outdoor living space, or simply maintain a healthy and beautiful yard, EZ Landscaping LLC is here to help.\n\nWe are committed to providing exceptional service and building long-lasting relationships with our Nampa customers.",
+        "localContext": "Nampa is a major city in the Treasure Valley, known for its agricultural heritage and growing industrial sector. The city offers a mix of small-town charm and big-city amenities.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC proudly serves the city of Caldwell, Idaho, offering a full suite of landscaping solutions to residential and commercial properties. We understand the importance of a well-maintained landscape, and our team is dedicated to providing top-quality services that enhance the beauty and value of your property. We're familiar with the local growing conditions and can tailor our services to ensure the health and vitality of your landscape.\n\nOur Caldwell services include lawn care, landscape design and installation, irrigation system maintenance, and seasonal clean-up. We work closely with our clients to understand their vision and create landscapes that reflect their unique style and preferences. Whether you're looking to create a stunning outdoor living space or simply maintain a pristine lawn, EZ Landscaping LLC can help.\n\nWe are dedicated to providing exceptional customer service and creating beautiful, sustainable landscapes for our Caldwell clients.",
+        "localContext": "Caldwell is a city in Canyon County, Idaho, known for its agricultural roots and strong community spirit. The city is home to the College of Idaho and offers a variety of cultural and recreational opportunities.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC is delighted to provide landscaping services to the town of Eagle, Idaho, known for its beautiful homes and well-maintained properties. We understand the importance of creating and maintaining stunning landscapes that complement the natural beauty of the area. Our team is committed to providing exceptional service and exceeding our clients' expectations in Eagle.\n\nOur services in Eagle include landscape design and installation, lawn care, tree and shrub maintenance, and irrigation system services. We work closely with our clients to understand their needs and create customized solutions that enhance their property's curb appeal and value. Whether you're looking to create a peaceful retreat in your backyard or maintain a pristine lawn, EZ Landscaping LLC is here to help.\n\nWe pride ourselves on our attention to detail and our commitment to creating beautiful, sustainable landscapes for our Eagle customers.",
+        "localContext": "Eagle is an affluent town located northwest of Boise, known for its scenic beauty and equestrian culture. The town offers a mix of residential neighborhoods and open spaces, with the Boise River providing a popular recreational area.",
+        "nearbyAreas": [
+          "Star",
+          "Boise",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC is proud to serve the growing community of Star, Idaho, with comprehensive landscaping services. We understand the importance of a well-maintained landscape in enhancing the beauty and value of your property. Our team is equipped to handle all your landscaping needs, from routine lawn care to complete landscape renovations in Star.\n\nWhether you need help with lawn mowing, fertilization, weed control, or landscape design, EZ Landscaping LLC is here to help. We're dedicated to providing exceptional service and creating landscapes that you can enjoy for years to come. We tailor our services to meet the specific needs of our clients, taking into account the local climate and soil conditions.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction in Star.",
+        "localContext": "Star is a rapidly growing city in the Treasure Valley, known for its rural charm and family-friendly atmosphere. Its location offers a balance between small-town living and access to urban amenities.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC extends its expertise to Kuna, Idaho, providing a range of landscaping services tailored to the unique needs of this community. We appreciate Kuna's blend of rural and residential landscapes, and we are committed to enhancing the beauty and functionality of outdoor spaces throughout the area. From lawn maintenance to complete landscape overhauls, our team is ready to serve you.\n\nOur Kuna services include lawn care, landscape design and installation, irrigation system maintenance, and seasonal clean-up. We work closely with homeowners and businesses to create customized solutions that reflect their vision and enhance their property's value. Whether you're looking to create a welcoming front yard or a relaxing backyard oasis, EZ Landscaping LLC can bring your ideas to life.\n\nWe take pride in our commitment to providing exceptional customer service and delivering high-quality results in Kuna.",
+        "localContext": "Kuna is a growing city located southwest of Boise, known for its agricultural heritage and strong sense of community. The city offers a mix of residential neighborhoods and open spaces, with a focus on preserving its rural character.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "EZ Landscaping LLC is pleased to offer its landscaping expertise to the residents and businesses of Middleton, Idaho. We understand the importance of a well-maintained landscape in enhancing the beauty and value of your property. Our team is equipped to handle all your landscaping needs, from routine lawn care to complete landscape renovations.\n\nOur services in Middleton include lawn care, landscape design, irrigation system installation and repair, and seasonal clean-up. We work closely with our clients to understand their needs and create customized solutions that meet their specific goals. Whether you're looking to improve your curb appeal, create an outdoor living space, or simply maintain a healthy and beautiful yard, EZ Landscaping LLC is here to help.\n\nWe are committed to providing exceptional service and building long-lasting relationships with our Middleton customers.",
+        "localContext": "Middleton is a city in Canyon County, Idaho, offering a small-town atmosphere with a strong sense of community. The city is located along the Boise River and offers a variety of outdoor recreational opportunities.",
+        "nearbyAreas": [
+          "Star",
+          "Caldwell",
+          "Emmett"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "EZ Landscaping transformed our barren backyard into an oasis! The design process was collaborative, and they really listened to our ideas. The team was professional and the quality of work is outstanding. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Lawn Care & Maintenance",
+        "text": "We've been using EZ Landscaping for our lawn care for two seasons now, and our lawn has never looked better. They are reliable, efficient, and always leave our yard looking pristine. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Hardscaping & Construction",
+        "text": "The patio EZ Landscaping built for us is absolutely stunning! The craftsmanship is impeccable, and it's exactly what we envisioned. They were professional, communicative, and completed the project on time and within budget.",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Irrigation Systems",
+        "text": "EZ Landscaping installed a new sprinkler system for our yard, and it has made a huge difference! Our lawn is greener and healthier, and we're saving water too. The team was knowledgeable and efficient. Highly recommend their services.",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Spring Clean-Up",
+        "text": "EZ Landscaping did a fantastic job with our spring clean-up. They removed all the winter debris, pruned our shrubs, and prepared our garden beds for planting. Our yard looks so much better! Appreciated their attention to detail.",
+        "date": "2024-04-05"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Snow Removal",
+        "text": "I rely on EZ Landscaping for snow removal every winter, and they never disappoint. They are always prompt, reliable, and do a great job clearing our driveway and sidewalks. Highly recommend their services.",
+        "date": "2024-01-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "EZ Landscaping LLC | Boise, ID",
+        "description": "Boise's premier landscaping company. Design, lawn care, hardscaping, irrigation, & more. Free consultations!"
+      },
+      "about": {
+        "title": "About EZ Landscaping | Boise, ID",
+        "description": "Learn about EZ Landscaping LLC, Boise's trusted landscaping experts. Quality, local expertise, and community focus."
+      },
+      "services": {
+        "title": "Landscaping Services | Boise, ID",
+        "description": "Comprehensive landscaping services in Boise. Design, lawn care, hardscaping, irrigation, seasonal clean-up, snow removal."
+      },
+      "contact": {
+        "title": "Contact EZ Landscaping | Boise, ID",
+        "description": "Contact EZ Landscaping LLC for landscaping services in Boise. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "EZ Landscaping Reviews | Boise, ID",
+        "description": "Read reviews of EZ Landscaping LLC from satisfied customers in Boise. See why we're the top choice for landscaping."
+      },
+      "service-areas": {
+        "title": "Service Areas | EZ Landscaping",
+        "description": "Service areas for EZ landscaping LLC in Boise, ID. Find a service area near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care": "/images/service-lawn-care.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "spring-fall-cleanup": "/images/service-spring-fall-cleanup.webp",
+      "snow-ice-removal": "/images/service-snow-ice-removal.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "spring-fall-cleanup": {
+        "src": "/images/service-spring-fall-cleanup.webp",
+        "srcset": "/images/service-spring-fall-cleanup-400w.webp 400w, /images/service-spring-fall-cleanup-800w.webp 800w, /images/service-spring-fall-cleanup-1200w.webp 1200w, /images/service-spring-fall-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "snow-ice-removal": {
+        "src": "/images/service-snow-ice-removal.webp",
+        "srcset": "/images/service-snow-ice-removal-400w.webp 400w, /images/service-snow-ice-removal-800w.webp 800w, /images/service-snow-ice-removal-1200w.webp 1200w, /images/service-snow-ice-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
